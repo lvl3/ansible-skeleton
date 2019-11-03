@@ -6,10 +6,9 @@ Folder structure in this skeleton is somewhat opinionated. Ansible provides alte
 See [Ansible best practises](https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html#directory-layout) for more information.
 
 ## What is included
-- Folder structure and placeholder files.
-- Working example role.
-- Example inventories for multiple environments.
-- Vagrantfile for running a virtual machine locally. See [Vagrant-README](inventories/vagrant/) for more information.
+- Folder structures and placeholder files.
+- Example role
+- Inventories for multiple environments.
 
 ## Running example-playbook
 To run the example-playbook against a running vagrant machine. Run this command in the root-directory of the project.

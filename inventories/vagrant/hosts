@@ -1,2 +1,0 @@
-[example]
-vagrant-machine ansible_ssh_host=127.0.0.1 ansible_ssh_port=2222 ansible_ssh_common_args='-o StrictHostKeyChecking=no'
