@@ -9,7 +9,7 @@ See [Ansible best practises](https://docs.ansible.com/ansible/latest/user_guide/
 - Folder structure and placeholder files.
 - Working example role.
 - Example inventories for multiple environments.
-- Vagrantfile for running a virtual machine locally. See inventories/vagrant/README.md for more info.
+- Vagrantfile for running a virtual machine locally. See [Vagrant-README](inventories/vagrant/) for more information.
 
 ## Running example-playbook
 To run the example-playbook against a running vagrant machine. Run this command in the root-directory of the project.
