@@ -12,4 +12,4 @@ See [Ansible best practises](https://docs.ansible.com/ansible/latest/user_guide/
 
 ## Running example-playbook
 To run the example-playbook against a running vagrant machine. Run this command in the root-directory of the project.
-```ansible-playbook -i inventories/vagrant/hosts example-play.yml```
+```ansible-playbook -i inventories/test/hosts example-play.yml```
