@@ -1,0 +1,6 @@
+---
+- name: Example
+  hosts: example
+
+  roles:
+    - example-role
