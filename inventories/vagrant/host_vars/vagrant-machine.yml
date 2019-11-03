@@ -1,2 +1,2 @@
 # Vars used for server with name vagrant-machine
-some_var_only_for_vagrant: 'testing...'
+remote_user: vagrant

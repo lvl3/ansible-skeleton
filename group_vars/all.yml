@@ -1,2 +1,2 @@
 # Vars that will be used for machines regardless of role
-var_for_all_servers_with_all_roles: 'test23131' 
+remote_user: some_user
