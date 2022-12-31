@@ -1,2 +1,2 @@
 [example]
-test-machine 127.0.0.1
+test-machine ansible_host=127.0.0.1
